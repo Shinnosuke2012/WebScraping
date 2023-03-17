@@ -5,7 +5,8 @@
 ## 使い方
 自分の環境にソースコードをクローンする.
 ```
-git clone ""
+#clone
+git clone "https://github.com/Shinnosuke2012/WebScraping.git"
 cd WebScraping
 #主要なライブラリインストール
 ./env.sh
