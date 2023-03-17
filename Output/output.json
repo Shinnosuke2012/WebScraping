@@ -4,7 +4,7 @@
         "url": "https://www.nature.com/articles/s41467-021-22523-3",
         "publisher": "Nature",
         "capacity": {
-            "id1": "240.5mAhg-1"
+            "arg1": "240.5mAhg-1"
         }
     },
     "id2": {
@@ -12,7 +12,7 @@
         "url": "https://www.nature.com/articles/s41467-021-25610-7",
         "publisher": "Nature",
         "capacity": {
-            "id1": "160.5mAhg-1"
+            "arg1": "160.5mAhg-1"
         }
     },
     "id3": {
@@ -20,14 +20,333 @@
         "url": "https://www.nature.com/articles/ncomms14283",
         "publisher": "Nature",
         "capacity": {
-            "id1": "110mAhg-1",
-            "id2": "60mAhg-1"
+            "arg1": "110mAhg-1",
+            "arg2": "60mAhg-1"
         }
     },
     "id4": {
+        "title": "Na-rich layered Na2Ti1\u2212xCrxO3\u2212x/2 (x=0, 0.06): Na-ion battery cathode materials with high capacity and long cycle life | Scientific Reports",
+        "url": "https://www.nature.com/articles/s41598-017-00346-x",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "336mAhg-1"
+        }
+    },
+    "id5": {
+        "title": "Niobium-doped layered cathode material for high-power and low-temperature sodium-ion batteries | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-022-30942-z",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "65mAhg-1",
+            "arg2": "70mAhg-1"
+        }
+    },
+    "id6": {
+        "title": "Operando visualisation of battery chemistry in a sodium-ion battery by 23Na magnetic resonance imaging | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-020-15938-x",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id7": {
+        "title": "Radially aligned hierarchical columnar structure as a cathode material for high energy density sodium-ion batteries | Nature Communications",
+        "url": "https://www.nature.com/articles/ncomms7865",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "125mAhg-1",
+            "arg2": "132.6mAhg-1"
+        }
+    },
+    "id8": {
+        "title": "High-capacity battery cathode prelithiation to offset initial lithium loss | Nature Energy",
+        "url": "https://www.nature.com/articles/nenergy20158",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "800mAhg-1"
+        }
+    },
+    "id9": {
         "title": "Sustainability-inspired cell design for a fully recyclable sodium ion battery | Nature Communications",
         "url": "https://www.nature.com/articles/s41467-019-09933-0",
         "publisher": "Nature",
         "capacity": {}
+    },
+    "id10": {
+        "title": "Direct regeneration of degraded lithium-ion battery cathodes with a multifunctional organic lithium salt | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-023-36197-6",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id11": {
+        "title": "A high-performance Cu\u2013Al dual-ion battery realized by high-concentration Cl\u2212 electrolyte and CuS cathode | Scientific Reports",
+        "url": "https://www.nature.com/articles/s41598-022-23494-1",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id12": {
+        "title": "Delocalized electron holes on oxygen in a battery cathode | Nature Energy",
+        "url": "https://www.nature.com/articles/s41560-023-01211-0",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id13": {
+        "title": "A room-temperature sodium\u2013sulfur battery with high capacity and stable cycling performance | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-018-06443-3",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id14": {
+        "title": "A reflection on lithium-ion battery cathode chemistry | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-020-15355-0",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id15": {
+        "title": "A low cost, all-organic Na-ion Battery Based on Polymeric Cathode and Anode | Scientific Reports",
+        "url": "https://www.nature.com/articles/srep02671",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id16": {
+        "title": "Native lattice strain induced structural earthquake in sodium layered oxide cathodes | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-022-28052-x",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id17": {
+        "title": "Manipulating anion intercalation enables a high-voltage aqueous dual ion battery | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-021-23369-5",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id18": {
+        "title": "Alkaline earth metal vanadates as sodium-ion battery anodes | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-017-00211-5",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "300mAhg-1"
+        }
+    },
+    "id19": {
+        "title": "A stable room-temperature sodium\u2013sulfur battery | Nature Communications",
+        "url": "https://www.nature.com/articles/ncomms11722",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "600mAhg-1"
+        }
+    },
+    "id20": {
+        "title": "A new cathode material for super-valent battery based on aluminium ion intercalation and deintercalation | Scientific Reports",
+        "url": "https://www.nature.com/articles/srep03383",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "116\u2005mAhg-1"
+        }
+    },
+    "id21": {
+        "title": "High-capacity antimony sulphide nanoparticle-decorated graphene composite as anode for sodium-ion batteries | Nature Communications",
+        "url": "https://www.nature.com/articles/ncomms3922",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "730mAhg-1"
+        }
+    },
+    "id22": {
+        "title": "High-performance sodium\u2013organic battery by realizing four-sodium storage in disodium rhodizonate | Nature Energy",
+        "url": "https://www.nature.com/articles/s41560-017-0014-y",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "501mAhg-1",
+            "arg2": "484mAhg-1"
+        }
+    },
+    "id23": {
+        "title": "A 3.8-V earth-abundant sodium battery electrode | Nature Communications",
+        "url": "https://www.nature.com/articles/ncomms5358",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id24": {
+        "title": "Opportunities for moderate-range electric vehicles using sustainable sodium-ion batteries | Nature Energy",
+        "url": "https://www.nature.com/articles/s41560-023-01215-w",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id25": {
+        "title": "Phase-engineered cathode for super-stable potassium storage | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-023-36385-4",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "111mAhg-1"
+        }
+    },
+    "id26": {
+        "title": "Interfacial-engineering-enabled practical low-temperature sodium metal battery | Nature Nanotechnology",
+        "url": "https://www.nature.com/articles/s41565-021-01036-6",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id27": {
+        "title": "A high-energy-density and long-life lithium-ion battery via reversible oxide\u2013peroxide conversion | Nature Catalysis",
+        "url": "https://www.nature.com/articles/s41929-019-0362-z",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id28": {
+        "title": "A stable cathode-solid electrolyte composite for high-voltage, long-cycle-life solid-state sodium-ion batteries | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-021-21488-7",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id29": {
+        "title": "A cost and resource analysis of sodium-ion batteries | Nature Reviews Materials",
+        "url": "https://www.nature.com/articles/natrevmats201813",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id30": {
+        "title": "A room-temperature sodium rechargeable battery using an SO2-based nonflammable inorganic liquid catholyte | Scientific Reports",
+        "url": "https://www.nature.com/articles/srep12827",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "153mAhg-1"
+        }
+    },
+    "id31": {
+        "title": "Flexible lithium\u2013oxygen battery based on a recoverable cathode | Nature Communications",
+        "url": "https://www.nature.com/articles/ncomms8892",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id32": {
+        "title": "NASICON-type air-stable and all-climate cathode for sodium-ion batteries with low cost and high-power density | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-019-09170-5",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id33": {
+        "title": "Dual fluorination of polymer electrolyte and conversion-type cathode for high-capacity all-solid-state lithium metal batteries | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-022-35636-0",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id34": {
+        "title": "Role of the voltage window on the capacity retention of P2-Na2/3[Fe1/2Mn1/2]O2 cathode material for rechargeable sodium-ion batteries | Communications Chemistry",
+        "url": "https://www.nature.com/articles/s42004-022-00628-0",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id35": {
+        "title": "A high-voltage concept with sodium-ion conducting \u03b2-alumina for magnesium-sodium dual-ion batteries | Communications Chemistry",
+        "url": "https://www.nature.com/articles/s42004-019-0186-4",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "110mAhg-1"
+        }
+    },
+    "id36": {
+        "title": "A rechargeable iodine-carbon battery that exploits ion intercalation and iodine redox chemistry | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-017-00649-7",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id37": {
+        "title": "Post-lithium-ion battery cell production and its compatibility with lithium-ion cell production infrastructure | Nature Energy",
+        "url": "https://www.nature.com/articles/s41560-020-00748-8",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id38": {
+        "title": "Pillar-beam structures prevent layered cathode materials from destructive phase transitions | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-020-20169-1",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id39": {
+        "title": "Surface-substituted Prussian blue analogue cathode for sustainable potassium-ion batteries | Nature Sustainability",
+        "url": "https://www.nature.com/articles/s41893-021-00810-7",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "160mAhg-1",
+            "arg2": "120mAhg-1"
+        }
+    },
+    "id40": {
+        "title": "Challenges in speeding up solid-state battery development | Nature Energy",
+        "url": "https://www.nature.com/articles/s41560-023-01208-9",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id41": {
+        "title": "Enhanced rate capabilities in a glass-ceramic-derived sodium all-solid-state battery | Scientific Reports",
+        "url": "https://www.nature.com/articles/s41598-020-66410-1",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id42": {
+        "title": "Ultrathin positively charged electrode skin for durable anion-intercalation battery chemistries | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-023-36384-5",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id43": {
+        "title": "Low-solvation electrolytes for high-voltage sodium-ion batteries | Nature Energy",
+        "url": "https://www.nature.com/articles/s41560-022-01055-0",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id44": {
+        "title": "Biologically enhanced cathode design for improved capacity and cycle life for lithium-oxygen batteries | Nature Communications",
+        "url": "https://www.nature.com/articles/ncomms3756",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "350mAhg-1",
+            "arg2": "340mAhg-1",
+            "arg3": "000mAhg-1",
+            "arg4": "400mAhg-1"
+        }
+    },
+    "id45": {
+        "title": "Advanced intermediate temperature sodium\u2013nickel chloride batteries with ultra-high energy density | Nature Communications",
+        "url": "https://www.nature.com/articles/ncomms10683",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id46": {
+        "title": "Visualizing nanoscale 3D compositional fluctuation of lithium in advanced lithium-ion battery cathodes | Nature Communications",
+        "url": "https://www.nature.com/articles/ncomms9014",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id47": {
+        "title": "A medium-entropy transition metal oxide cathode for high-capacity lithium metal batteries | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-022-33927-0",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "314.1mAhg-1"
+        }
+    },
+    "id48": {
+        "title": "A chemically self-charging aqueous zinc-ion battery | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-020-16039-5",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "239mAhg-1"
+        }
+    },
+    "id49": {
+        "title": "Cross-linked beta alumina nanowires with compact gel polymer electrolyte coating for ultra-stable sodium metal battery | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-019-11960-w",
+        "publisher": "Nature",
+        "capacity": {}
+    },
+    "id50": {
+        "title": "Reduced graphene oxide as a stable and high-capacity cathode material for Na-ion batteries | Scientific Reports",
+        "url": "https://www.nature.com/articles/srep40910",
+        "publisher": "Nature",
+        "capacity": {
+            "arg1": "240mAhg-1",
+            "arg2": "134mAhg-1",
+            "arg3": "230mAhg-1"
+        }
     }
 }

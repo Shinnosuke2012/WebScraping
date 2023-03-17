@@ -50,7 +50,7 @@ def Scrape_html(url:str)->None:
   soup = BeautifulSoup(response.content, 'html.parser')
 
   #title
-  title = soup.find('title').text
+  title = soup.find('title').text.replace('−1','-1').replace(' ','')
 
   # Find the HTML element that contains the abstract
   abstract = soup.find('div',class_=class_name).text.replace('−1','-1').replace(' ','')
@@ -59,7 +59,7 @@ def Scrape_html(url:str)->None:
   pattern = r'[0-9]+\.*[0-9]*\s*m\s*A\s*h\s*g-1'
   capacity = {}
   for i,m in enumerate(re.findall(pattern, abstract)):
-    capacity["id"+str(i+1)] = m.replace(' ','')
+    capacity["arg"+str(i+1)] = m.replace(' ','')
 
   data: Dict = {"title":title,"url":url, "publisher":publisher,"capacity":capacity}
   
