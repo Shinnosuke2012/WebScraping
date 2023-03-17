@@ -53,13 +53,13 @@ def Scrape_html(url:str)->None:
   title = soup.find('title').text
 
   # Find the HTML element that contains the abstract
-  abstract = soup.find('div',class_=class_name).text
+  abstract = soup.find('div',class_=class_name).text.replace('−1','-1').replace(' ','')
 
   #search the value of capacitance from abstract
-  pattern = r'[0-9]+\.*[0-9]*\s*m\s*A\s*h\s*g−1'
+  pattern = r'[0-9]+\.*[0-9]*\s*m\s*A\s*h\s*g-1'
   capacity = {}
   for i,m in enumerate(re.findall(pattern, abstract)):
-    capacity["id"+str(i+1)] = m
+    capacity["id"+str(i+1)] = m.replace(' ','')
 
   data: Dict = {"title":title,"url":url, "publisher":publisher,"capacity":capacity}
   

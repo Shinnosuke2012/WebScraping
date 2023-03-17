@@ -23,7 +23,7 @@ python -m main.py
         "url": "https://www.nature.com/articles/s41467-021-22523-3",
         "publisher": "Nature",
         "capacity": {
-            "id1": "240.5 mAh g\u22121"
+            "id1": "240.5mAhg-1"
         }
     },
     "id2": {
@@ -31,7 +31,7 @@ python -m main.py
         "url": "https://www.nature.com/articles/s41467-021-25610-7",
         "publisher": "Nature",
         "capacity": {
-            "id1": "160.5 mAh g\u22121"
+            "id1": "160.5mAhg-1"
         }
     },
     "id3": {
@@ -39,8 +39,8 @@ python -m main.py
         "url": "https://www.nature.com/articles/ncomms14283",
         "publisher": "Nature",
         "capacity": {
-            "id1": "110\u2009mAh\u2009g\u22121",
-            "id2": "60\u2009mAh\u2009g\u22121"
+            "id1": "110mAhg-1",
+            "id2": "60mAhg-1"
         }
     },
     "id4": {

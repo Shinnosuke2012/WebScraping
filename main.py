@@ -23,5 +23,5 @@ path = "Output"
 
 with open(os.path.join(path,"output.json"), "w",encoding="utf8") as file:
             json.dump(paper_scrape,file, indent=4)
-            
-print(json.dumps(paper_scrape,indent=4))
+
+# print(json.dumps(paper_scrape,indent=4))
