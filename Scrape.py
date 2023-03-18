@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 from typing import Any,List, Dict
 
-def Scrape_html(url:str)->None:
+def Scrape_html(url:str,summarizer:Any)->None:
   """This module scrapes abstraction and extracts the value of capacity.
 
   Args
@@ -52,15 +52,24 @@ def Scrape_html(url:str)->None:
   #title
   title = soup.find('title').text.replace('−1','-1').replace(' ','')
 
+  #publication date
+  date = soup.find("ul",class_="c-article-identifiers").find("a").text
+
+  #author
+  author = soup.find("li",class_="c-article-author-list__item").text + " et al."
+
   # Find the HTML element that contains the abstract
   abstract = soup.find('div',class_=class_name).text.replace('−1','-1').replace(' ','')
+
+  #summarize abstract with 50~100 words
+  summary = summarizer(abstract, max_length=100, min_length=50, do_sample=False)[0]["summary_text"]
 
   #search the value of capacitance from abstract
   pattern = r'[0-9]+\.*[0-9]*\s*m\s*A\s*h\s*g-1'
   capacity = {}
   for i,m in enumerate(re.findall(pattern, abstract)):
-    capacity["arg"+str(i+1)] = m.replace(' ','')
+    capacity["value"+str(i+1)] = m.replace(' ','')
 
-  data: Dict = {"title":title,"url":url, "publisher":publisher,"capacity":capacity}
+  data: Dict = {"title":title,"publication_date":date,"author":author,"url":url, "publisher":publisher,"summary of abstract":summary,"capacity":capacity}
   
   return data

@@ -1,352 +1,502 @@
 {
     "id1": {
         "title": "Tuning local chemistry of P2 layered-oxide cathode for high energy and long cycles of sodium-ion battery | Nature Communications",
+        "publication_date": "Published: 15 April 2021",
+        "author": "Chenchen Wang1,  et al.",
         "url": "https://www.nature.com/articles/s41467-021-22523-3",
         "publisher": "Nature",
+        "summary of abstract": "K+ is riveted in prismatic Na+ sites of P2-Na0.612K0.056MnO2 to enable more thermodynamically favorable Na+ vacancies. Mn-O bonds are reinforced to reduce phase transition during charge and discharge. It exhibits the highest specific capacity of 240.5 mAh g-1 and energy density of 654 Wh kg-1.",
         "capacity": {
-            "arg1": "240.5mAhg-1"
+            "value1": "240.5mAhg-1"
         }
     },
     "id2": {
         "title": "Boron-doped sodium layered oxide for reversible oxygen redox reaction in Na-ion battery cathodes | Nature Communications",
+        "publication_date": "Published: 06 September 2021",
+        "author": "Yu-Jie Guo1,2\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/s41467-021-25610-7",
         "publisher": "Nature",
+        "summary of abstract": "The irreversible oxygen redox reaction at the high-voltage region in sodium layered cathode materials generates structural instability and poor capacity retention upon cycling. We report a doping strategy by incorporating light-weight boron into the cathode active material lattice to decrease the irreversible oxygen oxidation at high voltages. The B-doped cathode material promotes reversible transition metal redox.",
         "capacity": {
-            "arg1": "160.5mAhg-1"
+            "value1": "160.5mAhg-1"
         }
     },
     "id3": {
         "title": "Advanced rechargeable aluminium ion battery with a high-quality natural graphite cathode | Nature Communications",
+        "publication_date": "Published: 13 February 2017",
+        "author": "Di-Yan Wang1,2,3,  et al.",
         "url": "https://www.nature.com/articles/ncomms14283",
         "publisher": "Nature",
+        "summary of abstract": "Aluminium ion batteries with aluminium anodes, graphite cathodes and ionic liquid electrolytes have increased. Here, an aluminium ion battery cell made using pristine natural graphite flakes achieves a specific capacity of \u223c110mAhg-1. Raman spectroscopy shows two different intercalation processes involving chloroaluminate anions.",
         "capacity": {
-            "arg1": "110mAhg-1",
-            "arg2": "60mAhg-1"
+            "value1": "110mAhg-1",
+            "value2": "60mAhg-1"
         }
     },
     "id4": {
         "title": "Na-rich layered Na2Ti1\u2212xCrxO3\u2212x/2 (x=0, 0.06): Na-ion battery cathode materials with high capacity and long cycle life | Scientific Reports",
+        "publication_date": "Published: 23 March 2017",
+        "author": "Shufeng Song1,  et al.",
         "url": "https://www.nature.com/articles/s41598-017-00346-x",
         "publisher": "Nature",
+        "summary of abstract": "A new cathode material, Na-rich layered oxide Na2Ti0.94Cr0.06O2.97, delivers high reversible capacity of 336mAh g-1 at current density of 18.9mAg-1. The high capacity is associated to the redox reaction of oxygen, which is confirmed here.",
         "capacity": {
-            "arg1": "336mAhg-1"
+            "value1": "336mAhg-1"
         }
     },
     "id5": {
         "title": "Niobium-doped layered cathode material for high-power and low-temperature sodium-ion batteries | Nature Communications",
+        "publication_date": "Published: 09 June 2022",
+        "author": "Qinhao Shi1\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/s41467-022-30942-z",
         "publisher": "Nature",
+        "summary of abstract": "The application of sodium-based batteries in grid-scale energy storage requires electrode materials that facilitate fast and stable charge storage at various temperatures. We propose a P2-type Na0.78Ni0.31Mn0.67Nb0.02O2 (P2-NaMNNb) cathode active material where the niobium doping enables reduction in the electronic band gap and ionic diffusion energy barrier.",
         "capacity": {
-            "arg1": "65mAhg-1",
-            "arg2": "70mAhg-1"
+            "value1": "65mAhg-1",
+            "value2": "70mAhg-1"
         }
     },
     "id6": {
         "title": "Operando visualisation of battery chemistry in a sodium-ion battery by 23Na magnetic resonance imaging | Nature Communications",
+        "publication_date": "Published: 29 April 2020",
+        "author": "Joshua M. Bray1,  et al.",
         "url": "https://www.nature.com/articles/s41467-020-15938-x",
         "publisher": "Nature",
+        "summary of abstract": "Sodium-ion batteries are a promising battery technology for their cost and sustainability. This has led to increasing interest in the development of new batteries. Here we report on the speciation and distribution of sodium in the electrode and electrolyte during sodiation and desodiation of hard carbon.",
         "capacity": {}
     },
     "id7": {
         "title": "Radially aligned hierarchical columnar structure as a cathode material for high energy density sodium-ion batteries | Nature Communications",
+        "publication_date": "Published: 17 April 2015",
+        "author": "Jang-Yeon Hwang1\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/ncomms7865",
         "publisher": "Nature",
+        "summary of abstract": "Cathode material based on Ni2+/3+/4+ is readily available to deliver a discharge capacity of 157mAh (g-oxide)-1 (15mAg-1) during 300 cycles. The cathode also exhibits good temperature performance even at \u221220\u00b0C. These results originate from rather unique chemistry of the cathode material.",
         "capacity": {
-            "arg1": "125mAhg-1",
-            "arg2": "132.6mAhg-1"
+            "value1": "125mAhg-1",
+            "value2": "132.6mAhg-1"
         }
     },
     "id8": {
         "title": "High-capacity battery cathode prelithiation to offset initial lithium loss | Nature Energy",
+        "publication_date": "Published: 11 January 2016",
+        "author": "Yongming Sun1,  et al.",
         "url": "https://www.nature.com/articles/nenergy20158",
         "publisher": "Nature",
+        "summary of abstract": "Loss of lithium in the initial cycles appreciably reduces the energy density of lithium-ion batteries. Anode prelithiation is a common approach to address the problem, although it faces the issues of high chemical reactivity and instability in ambient and battery processing conditions. We fabricate cathode additives consisting of nanoscale mixtures of transition metals and lithium oxide that are obtained by conversion reactions.",
         "capacity": {
-            "arg1": "800mAhg-1"
+            "value1": "800mAhg-1"
         }
     },
     "id9": {
         "title": "Sustainability-inspired cell design for a fully recyclable sodium ion battery | Nature Communications",
+        "publication_date": "Published: 29 April 2019",
+        "author": "Tiefeng Liu1,  et al.",
         "url": "https://www.nature.com/articles/s41467-019-09933-0",
         "publisher": "Nature",
+        "summary of abstract": "Large-scale applications of rechargeable batteries consume nonrenewable resources and produce massive amounts of end-of-life wastes. We design a fully recyclable rechargeable sodium ion battery with bipolar electrode structure using Na3V2(PO4)3 as an electrode material and aluminum foil as the shared current collector.",
         "capacity": {}
     },
     "id10": {
         "title": "Direct regeneration of degraded lithium-ion battery cathodes with a multifunctional organic lithium salt | Nature Communications",
+        "publication_date": "Published: 03 February 2023",
+        "author": "Guanjun Ji1,2\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/s41467-023-36197-6",
         "publisher": "Nature",
+        "summary of abstract": "LiFePO4 batteries have been widely used in electric vehicles and energy storage stations. Currently, lithium loss, resulting in formation of Fe(III) phase, is mainly responsible for the capacity fade of LiFe PO4 cathodes. Here, we report the use of a multifunctional organic lithium salt to restore spent Li FePO4 cathode by direct regeneration.",
         "capacity": {}
     },
     "id11": {
         "title": "A high-performance Cu\u2013Al dual-ion battery realized by high-concentration Cl\u2212 electrolyte and CuS cathode | Scientific Reports",
+        "publication_date": "Published: 04 November 2022",
+        "author": "Meina Tan1\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/s41598-022-23494-1",
         "publisher": "Nature",
+        "summary of abstract": "Aqueous solution composed of LiCl, CuCl and AlCl3 (LiCuAl) is used as the electrolyte. CuS is used to act as the cathode of aqueous aluminum ion battery for the first time. Copper foil is used for the anode. The assembled Cu\u2013Al dual-ion battery yields a reversible capacity of 538\u00a0mA\u00a0h/g at 200\u00a0mA/g.",
         "capacity": {}
     },
     "id12": {
         "title": "Delocalized electron holes on oxygen in a battery cathode | Nature Energy",
+        "publication_date": "Published: 16 February 2023",
+        "author": "Robert A. House\u00a0\n            ORCID: orcid.org/0000-0002-7415-477X1,  et al.",
         "url": "https://www.nature.com/articles/s41560-023-01211-0",
         "publisher": "Nature",
+        "summary of abstract": "Oxide ions in transition metal oxide cathodes can store charge at high voltage offering a route towards higher energy density batteries. Upon charging these cathodes, the oxidized oxide ions condense to form molecular O2 trapped in the material. Consequently, the discharge voltage is much lower than charge, leading to undesirable voltage hysteresis. Here we capture the nature of the electron holes on O2\u2212 before O2 formation by exploiting the suppressed transition metal rearrangement.",
         "capacity": {}
     },
     "id13": {
         "title": "A room-temperature sodium\u2013sulfur battery with high capacity and stable cycling performance | Nature Communications",
+        "publication_date": "Published: 24 September 2018",
+        "author": "Xiaofu Xu1,2\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/s41467-018-06443-3",
         "publisher": "Nature",
+        "summary of abstract": "High-temperature sodium\u2013sulfur batteries operating at 300\u2013350\u00b0C have been commercially applied for large-scale energy storage and conversion. The safety concerns greatly inhibit their widespread adoption. Herein, we report a room-tem temperature\u00a0sodium\u2013Sulfur battery with high electrochemical performances and enhanced safety.",
         "capacity": {}
     },
     "id14": {
         "title": "A reflection on lithium-ion battery cathode chemistry | Nature Communications",
+        "publication_date": "Published: 25 March 2020",
+        "author": "Arumugam Manthiram\u00a0\n            ORCID: orcid.org/0000-0003-0237-95631\u00a0 et al.",
         "url": "https://www.nature.com/articles/s41467-020-15355-0",
         "publisher": "Nature",
+        "summary of abstract": "Lithium-ion batteries have aided the portable electronics revolution for nearly three decades. They are now enabling vehicle electrification and beginning to enter the utility industry. Basic science research, involving solid-state chemistry and physics, has been at the center of this endeavor, particularly during the 1970s and 1980s.",
         "capacity": {}
     },
     "id15": {
         "title": "A low cost, all-organic Na-ion Battery Based on Polymeric Cathode and Anode | Scientific Reports",
+        "publication_date": "Published: 16 September 2013",
+        "author": "Wenwen Deng1,  et al.",
         "url": "https://www.nature.com/articles/srep02671",
         "publisher": "Nature",
+        "summary of abstract": "All-organic Na-ion battery using p-dopable polytriphenylamine as cathode and n-type redox-active poly(anthraquinonyl sulphide) as anode. Such a battery can work well with a voltage output of 1.8\u2005V and realize a considerable specific energy of 92\u2005Wh kg-1.",
         "capacity": {}
     },
     "id16": {
         "title": "Native lattice strain induced structural earthquake in sodium layered oxide cathodes | Nature Communications",
+        "publication_date": "Published: 27 January 2022",
+        "author": "Gui-Liang Xu\u00a0\n            ORCID: orcid.org/0000-0001-9969-883X1,  et al.",
         "url": "https://www.nature.com/articles/s41467-022-28052-x",
         "publisher": "Nature",
+        "summary of abstract": "High-voltage operation is essential for the energy and power densities of battery cathode materials. To date, the degradation origin has been mostly attributed to cycling-initiated structural deformation. The effect of native crystallographic defects induced during the sophisticated synthesis process has been significantly overlooked.",
         "capacity": {}
     },
     "id17": {
         "title": "Manipulating anion intercalation enables a high-voltage aqueous dual ion battery | Nature Communications",
+        "publication_date": "Published: 25 May 2021",
+        "author": "Zhaodong Huang1,  et al.",
         "url": "https://www.nature.com/articles/s41467-021-23369-5",
         "publisher": "Nature",
+        "summary of abstract": "An aqueous dual ion battery based on the intercalation behaviors of bis(trifluoromethane)sulfonimide anions into a graphite cathode exhibits a high voltage of 2.2V together with a specific energy of 242.74Whkg-1. This work provides clear guidance for the voltage plateau manipulation of anion Intercalation into two-dimensional materials.",
         "capacity": {}
     },
     "id18": {
         "title": "Alkaline earth metal vanadates as sodium-ion battery anodes | Nature Communications",
+        "publication_date": "Published: 06 September 2017",
+        "author": "Xiaoming Xu1,  et al.",
         "url": "https://www.nature.com/articles/s41467-017-00211-5",
         "publisher": "Nature",
+        "summary of abstract": "The potential of sodium-ion batteries as emerging energy storage devices is hindered by the limited electrochemical performance of electrode materials. Here, we identify alkaline earth metal vanadates as promising anodes for sodium-ION batteries. The prepared calcium vanadate nanowires possess intrinsically high electronic conductivity and small volume change.",
         "capacity": {
-            "arg1": "300mAhg-1"
+            "value1": "300mAhg-1"
         }
     },
     "id19": {
         "title": "A stable room-temperature sodium\u2013sulfur battery | Nature Communications",
+        "publication_date": "Published: 09 June 2016",
+        "author": "Shuya Wei1,  et al.",
         "url": "https://www.nature.com/articles/ncomms11722",
         "publisher": "Nature",
+        "summary of abstract": "High-energy rechargeable batteries based on earth-abundant materials are important for mobile and stationary storage technologies. Rechargeable sodium\u2013sulfur batteries are among the most sought-after platforms. Such cells take advantage of a two-electron-redox process to achieve high storage capacity.",
         "capacity": {
-            "arg1": "600mAhg-1"
+            "value1": "600mAhg-1"
         }
     },
     "id20": {
         "title": "A new cathode material for super-valent battery based on aluminium ion intercalation and deintercalation | Scientific Reports",
+        "publication_date": "Published: 29 November 2013",
+        "author": "Wei Wang1,  et al.",
         "url": "https://www.nature.com/articles/srep03383",
         "publisher": "Nature",
+        "summary of abstract": "Super-valent battery based on aluminium ion intercalation and deintercalation. VO2 as cathode and high-purity Al foil as anode. Long cycle life, low cost and good capacity are achieved in this battery system.",
         "capacity": {
-            "arg1": "116\u2005mAhg-1"
+            "value1": "116\u2005mAhg-1"
         }
     },
     "id21": {
         "title": "High-capacity antimony sulphide nanoparticle-decorated graphene composite as anode for sodium-ion batteries | Nature Communications",
+        "publication_date": "Published: 10 December 2013",
+        "author": "Denis Y. W. Yu1,2,3,  et al.",
         "url": "https://www.nature.com/articles/ncomms3922",
         "publisher": "Nature",
+        "summary of abstract": "Antimony sulphide (stibnite) on graphene is the anode material for sodium-ion batteries. It gives a high capacity of 730mAhg-1 at 50mAg-1, an excellent rate capability up to 6C and a good cycle performance. The energy density could exceed that of some lithium-ions with further optimization.",
         "capacity": {
-            "arg1": "730mAhg-1"
+            "value1": "730mAhg-1"
         }
     },
     "id22": {
         "title": "High-performance sodium\u2013organic battery by realizing four-sodium storage in disodium rhodizonate | Nature Energy",
+        "publication_date": "Published: 09 October 2017",
+        "author": "Minah Lee\u00a0\n            ORCID: orcid.org/0000-0003-0047-13581,  et al.",
         "url": "https://www.nature.com/articles/s41560-017-0014-y",
         "publisher": "Nature",
+        "summary of abstract": "Sodium-ion batteries (SIBs) for grid-scale applications need active materials that combine a high energy density with sustainability. Given the high theoretical specific capacity 501mAh g-1, and Earth abundance of disodium rhodizonate (Na2C6O6), it is one of the most promising cathodes for SIBs.",
         "capacity": {
-            "arg1": "501mAhg-1",
-            "arg2": "484mAhg-1"
+            "value1": "501mAhg-1",
+            "value2": "484mAhg-1"
         }
     },
     "id23": {
         "title": "A 3.8-V earth-abundant sodium battery electrode | Nature Communications",
+        "publication_date": "Published: 17 July 2014",
+        "author": "Prabeer Barpanda1,2,3\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/ncomms5358",
         "publisher": "Nature",
+        "summary of abstract": "Lithium batteries have ushered the wireless revolution over last two decades. However, their performance is limited owing to low operating voltage and sluggish kinetics. Rare-metal-free Na-ion rechargeable battery system compatible with the present Li-ion battery is now in realistic scope.",
         "capacity": {}
     },
     "id24": {
-        "title": "Opportunities for moderate-range electric vehicles using sustainable sodium-ion batteries | Nature Energy",
-        "url": "https://www.nature.com/articles/s41560-023-01215-w",
+        "title": "Interfacial-engineering-enabled practical low-temperature sodium metal battery | Nature Nanotechnology",
+        "publication_date": "Published: 23 December 2021",
+        "author": "Tao Deng1,2\u00a0na1,  et al.",
+        "url": "https://www.nature.com/articles/s41565-021-01036-6",
         "publisher": "Nature",
+        "summary of abstract": "Solid-state sodium (Na) batteries have received extensive attention as a promising alternative to room-temperature liquid electrolyte Na-ion batteries. The major issues for solid-state Na batteries are a high interfacial resistance between solid electrolytes and electrodes, and Na dendrite growth. Here we report that a yttria-stabilized zirconia (YSZ)-enhanced beta-alumina solid electrolyte has an extremely low interface impedance of 3.",
         "capacity": {}
     },
     "id25": {
-        "title": "Phase-engineered cathode for super-stable potassium storage | Nature Communications",
-        "url": "https://www.nature.com/articles/s41467-023-36385-4",
-        "publisher": "Nature",
-        "capacity": {
-            "arg1": "111mAhg-1"
-        }
-    },
-    "id26": {
-        "title": "Interfacial-engineering-enabled practical low-temperature sodium metal battery | Nature Nanotechnology",
-        "url": "https://www.nature.com/articles/s41565-021-01036-6",
-        "publisher": "Nature",
-        "capacity": {}
-    },
-    "id27": {
         "title": "A high-energy-density and long-life lithium-ion battery via reversible oxide\u2013peroxide conversion | Nature Catalysis",
+        "publication_date": "Published: 07 October 2019",
+        "author": "Yu Qiao1\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/s41929-019-0362-z",
         "publisher": "Nature",
+        "summary of abstract": "Li\u2013O2 batteries have received considerable attention owing to their high theoretical gravimetric energy densities. However, the sluggish kinetic barrier between gaseous O2 and solid products leads to severe polarized overpotenial. Here, by pre-embedding Li2O nanoparticles into an iridium\u2013graphene catalytic host, we confine the O2-free reversible Li2 O2/Li2O2 interconversion within a sealed cell environment.",
+        "capacity": {}
+    },
+    "id26": {
+        "title": "Phase-engineered cathode for super-stable potassium storage | Nature Communications",
+        "publication_date": "Published: 06 February 2023",
+        "author": "Lichen Wu1,2,  et al.",
+        "url": "https://www.nature.com/articles/s41467-023-36385-4",
+        "publisher": "Nature",
+        "summary of abstract": " phase-engineered VO2 as an improved potassium-ion battery cathode. Amorphous VO2 exhibits superior K storage ability, while the crystalline M phase VO2 cannot even store K+ ions stably. The capacity retention reaches 80% after 8500 cycles at 500mAg-1.",
+        "capacity": {
+            "value1": "111mAhg-1"
+        }
+    },
+    "id27": {
+        "title": "Opportunities for moderate-range electric vehicles using sustainable sodium-ion batteries | Nature Energy",
+        "publication_date": "Published: 14 March 2023",
+        "author": "Ashish Rudola\u00a0\n            ORCID: orcid.org/0000-0001-9368-06981,  et al.",
+        "url": "https://www.nature.com/articles/s41560-023-01215-w",
+        "publisher": "Nature",
+        "summary of abstract": "Today\u2019s sodium-ion batteries can not only be used in stationary energy storage applications, but also in 160\u2013280 mile driving-range five-passenger electric vehicles. This technology will alleviate some of the supply-chain issues arising from limited resources.",
         "capacity": {}
     },
     "id28": {
         "title": "A stable cathode-solid electrolyte composite for high-voltage, long-cycle-life solid-state sodium-ion batteries | Nature Communications",
+        "publication_date": "Published: 23 February 2021",
+        "author": "Erik A. Wu1\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/s41467-021-21488-7",
         "publisher": "Nature",
+        "summary of abstract": "Rechargeable solid-state sodium-ion batteries (SSSBs) hold great promise for safer and more energy-dense energy storage. The poor electrochemical stability between current sulfide-based solid electrolytes and high-voltage oxide cathodes has limited their long-term cycling performance and practicality. Here, we report the discovery of the ion conductor Na3-xY1-xZrxCl6 (NYZC) that is both electrochemically stable",
         "capacity": {}
     },
     "id29": {
-        "title": "A cost and resource analysis of sodium-ion batteries | Nature Reviews Materials",
-        "url": "https://www.nature.com/articles/natrevmats201813",
-        "publisher": "Nature",
-        "capacity": {}
-    },
-    "id30": {
         "title": "A room-temperature sodium rechargeable battery using an SO2-based nonflammable inorganic liquid catholyte | Scientific Reports",
+        "publication_date": "Published: 05 August 2015",
+        "author": "Goojin Jeong1,  et al.",
         "url": "https://www.nature.com/articles/srep12827",
         "publisher": "Nature",
+        "summary of abstract": "Sodium rechargeable batteries can be excellent alternatives to lithium rechargeable ones because of the high abundance and low cost of sodium. There is a need to further improve the battery performance, cost-effectiveness and safety for practical use. Here we demonstrate a new type of room-temperature and high-energy density sodium rechargeable battery using an SO2-based inorganic molten complex catholyte.",
         "capacity": {
-            "arg1": "153mAhg-1"
+            "value1": "153mAhg-1"
         }
+    },
+    "id30": {
+        "title": "A cost and resource analysis of sodium-ion batteries | Nature Reviews Materials",
+        "publication_date": "Published: 13 March 2018",
+        "author": "Christoph Vaalma1,2,  et al.",
+        "url": "https://www.nature.com/articles/natrevmats201813",
+        "publisher": "Nature",
+        "summary of abstract": "Sodium-ion batteries have been identified as appealing alternatives to lithium-ion. They are made from raw materials that are less expensive, more abundant and less toxic. We use the Battery Performance and Cost (BatPaC) model to undertake a cost analysis of the materials for sodium-ion and lithium-ION cells.",
+        "capacity": {}
     },
     "id31": {
         "title": "Flexible lithium\u2013oxygen battery based on a recoverable cathode | Nature Communications",
+        "publication_date": "Published: 03 August 2015",
+        "author": "Qing-Chao Liu1,2\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/ncomms8892",
         "publisher": "Nature",
+        "summary of abstract": "Flexible power sources are crucial for the realization next-generation flexible electronics. Their application in such devices is hindered by their low theoretical energy density. Here we show that a flexible Li\u2013O2 battery can be fabricated using unique TiO2 nanowire arrays grown onto carbon textiles.",
         "capacity": {}
     },
     "id32": {
         "title": "NASICON-type air-stable and all-climate cathode for sodium-ion batteries with low cost and high-power density | Nature Communications",
+        "publication_date": "Published: 01 April 2019",
+        "author": "Mingzhe Chen\u00a0\n            ORCID: orcid.org/0000-0002-2074-94871,  et al.",
         "url": "https://www.nature.com/articles/s41467-019-09170-5",
         "publisher": "Nature",
+        "summary of abstract": "Na4Fe3(PO4)2(P2O7)/C nanocomposite shows both excellent rate performance and outstanding cycling stability over more than 4400 cycles. A remarkably low volume change of 4.0% is observed. Its high sodium diffusion coefficient has been measured and analysed via first-principles calculations.",
         "capacity": {}
     },
     "id33": {
-        "title": "Dual fluorination of polymer electrolyte and conversion-type cathode for high-capacity all-solid-state lithium metal batteries | Nature Communications",
-        "url": "https://www.nature.com/articles/s41467-022-35636-0",
+        "title": "A high-voltage concept with sodium-ion conducting \u03b2-alumina for magnesium-sodium dual-ion batteries | Communications Chemistry",
+        "publication_date": "Published: 19 July 2019",
+        "author": "Kostiantyn V. Kravchyk1,2\u00a0na1,  et al.",
+        "url": "https://www.nature.com/articles/s42004-019-0186-4",
         "publisher": "Nature",
-        "capacity": {}
+        "summary of abstract": "Rechargeable magnesium-sodium dual-ion batteries are appealing as safe, low-cost systems for large-scale stationary electricity storage. The proposed concept is assessed using a high-voltage Na1.5VPO4.8F0.7 cathode demonstrating a high average discharge voltage of 3.0V.",
+        "capacity": {
+            "value1": "110mAhg-1"
+        }
     },
     "id34": {
         "title": "Role of the voltage window on the capacity retention of P2-Na2/3[Fe1/2Mn1/2]O2 cathode material for rechargeable sodium-ion batteries | Communications Chemistry",
+        "publication_date": "Published: 01 February 2022",
+        "author": "Maider Zarrabeitia\u00a0\n            ORCID: orcid.org/0000-0003-1305-21361\u00a0nAff5\u00a0nAff6,  et al.",
         "url": "https://www.nature.com/articles/s42004-022-00628-0",
         "publisher": "Nature",
+        "summary of abstract": "P2-Na2/3 is a promising high energy density cathode material for sodium-ion batteries. One of its drawbacks is the poor long-term stability in the operating voltage window of 1.5\u20134.25V vs Na+/Na that prevents its commercialization.",
         "capacity": {}
     },
     "id35": {
-        "title": "A high-voltage concept with sodium-ion conducting \u03b2-alumina for magnesium-sodium dual-ion batteries | Communications Chemistry",
-        "url": "https://www.nature.com/articles/s42004-019-0186-4",
+        "title": "Dual fluorination of polymer electrolyte and conversion-type cathode for high-capacity all-solid-state lithium metal batteries | Nature Communications",
+        "publication_date": "Published: 23 December 2022",
+        "author": "Jiulin Hu1,2,  et al.",
+        "url": "https://www.nature.com/articles/s41467-022-35636-0",
         "publisher": "Nature",
-        "capacity": {
-            "arg1": "110mAhg-1"
-        }
+        "summary of abstract": "All-solid-state batteries are appealing electrochemical energy storage devices because of their high energy content and safety. However, their practical development is hindered by inadequate cycling performances due to poor reaction reversibility, electrolyte thickening and electrode passivation. Here, we propose a fluorination strategy for the positive electrode and solid polymeric electrolyte.",
+        "capacity": {}
     },
     "id36": {
         "title": "A rechargeable iodine-carbon battery that exploits ion intercalation and iodine redox chemistry | Nature Communications",
+        "publication_date": "Published: 13 September 2017",
+        "author": "Ke Lu1,  et al.",
         "url": "https://www.nature.com/articles/s41467-017-00649-7",
         "publisher": "Nature",
+        "summary of abstract": " Graphitic carbons have been used as conductive supports for developing rechargeable batteries. We find that heteroatoms could provide additional defect sites for encapsulating iodine. The porous carbon skeleton facilitates redox reactions of iodine and ion intercalation.",
         "capacity": {}
     },
     "id37": {
-        "title": "Post-lithium-ion battery cell production and its compatibility with lithium-ion cell production infrastructure | Nature Energy",
-        "url": "https://www.nature.com/articles/s41560-020-00748-8",
+        "title": "Pillar-beam structures prevent layered cathode materials from destructive phase transitions | Nature Communications",
+        "publication_date": "Published: 04 January 2021",
+        "author": "Yuesheng Wang\u00a0\n            ORCID: orcid.org/0000-0001-7269-90151\u00a0na1,  et al.",
+        "url": "https://www.nature.com/articles/s41467-020-20169-1",
         "publisher": "Nature",
+        "summary of abstract": "Sodium-ion batteries are well expected because they utilize abundant resources. The lack of competent cathodes with both large capacities and long cycle lives prevents the commercialization of sodium-ION batteries. The addition of the potassium ions boosts simultaneously the energy density and the\u00a0cycle life.",
         "capacity": {}
     },
     "id38": {
-        "title": "Pillar-beam structures prevent layered cathode materials from destructive phase transitions | Nature Communications",
-        "url": "https://www.nature.com/articles/s41467-020-20169-1",
+        "title": "Post-lithium-ion battery cell production and its compatibility with lithium-ion cell production infrastructure | Nature Energy",
+        "publication_date": "Published: 28 January 2021",
+        "author": "Fabian Duffner\u00a0\n            ORCID: orcid.org/0000-0002-0113-08811,2,  et al.",
+        "url": "https://www.nature.com/articles/s41560-020-00748-8",
         "publisher": "Nature",
+        "summary of abstract": "Lithium-ion batteries are currently the most advanced electrochemical energy storage technology. Driven by forecasted growth of the electric vehicles market, the cell production capacity for this technology is continuously being scaled up. Demand for better performance, particularly higher energy densities and/or lower costs, has triggered research into post-lithium batteries.",
         "capacity": {}
     },
     "id39": {
         "title": "Surface-substituted Prussian blue analogue cathode for sustainable potassium-ion batteries | Nature Sustainability",
+        "publication_date": "Published: 13 December 2021",
+        "author": "Junmin Ge1,  et al.",
         "url": "https://www.nature.com/articles/s41893-021-00810-7",
         "publisher": "Nature",
+        "summary of abstract": "Aqueous potassium-ion batteries have emerged as a complementary technology due to their combined advantages in cost and safety. Realizing their full potential, however, is not without challenges. Among the limited choices of cathode materials, the more sustainable Prussian blue analogues suffer from fast capacity fading when manganese is present.",
         "capacity": {
-            "arg1": "160mAhg-1",
-            "arg2": "120mAhg-1"
+            "value1": "160mAhg-1",
+            "value2": "120mAhg-1"
         }
     },
     "id40": {
         "title": "Challenges in speeding up solid-state battery development | Nature Energy",
+        "publication_date": "Published: 23 February 2023",
+        "author": "J\u00fcrgen Janek\u00a0\n            ORCID: orcid.org/0000-0002-9221-47561,2 &  et al.",
         "url": "https://www.nature.com/articles/s41560-023-01208-9",
         "publisher": "Nature",
+        "summary of abstract": "Recent efforts to establish solid-state batteries still face issues with long-term performance, specific power and economic viability. Key challenges still involve the need for fast-conducting solid electrolytes to provide sufficient transport in composite cathodes. High-performance anodes together with protection concepts are paramount to establish dense high-energy batteries.",
         "capacity": {}
     },
     "id41": {
         "title": "Enhanced rate capabilities in a glass-ceramic-derived sodium all-solid-state battery | Scientific Reports",
+        "publication_date": "Published: 11 June 2020",
+        "author": "Hideo Yamauchi\u00a0\n            ORCID: orcid.org/0000-0002-5168-06701,  et al.",
         "url": "https://www.nature.com/articles/s41598-020-66410-1",
         "publisher": "Nature",
+        "summary of abstract": "An all-solid-state battery (ASSB) with a new structure based on glass-ceramic that forms Na2FeP2O7 (NFP) crystals, which functions as an active cathode material. Two important factors that influence the rate capability of this ASSB were optimised.",
         "capacity": {}
     },
     "id42": {
         "title": "Ultrathin positively charged electrode skin for durable anion-intercalation battery chemistries | Nature Communications",
+        "publication_date": "Published: 10 February 2023",
+        "author": "Davood Sabaghi1\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/s41467-023-36384-5",
         "publisher": "Nature",
+        "summary of abstract": "The anion-intercalation chemistries of graphite have the potential to construct batteries with promising energy and power breakthroughs. Here, we report the use of an ultrathin, positively charged two-dimensional poly(pyridinium salt) membrane (C2DP) as the graphite electrode skin to overcome the critical durability problem.",
         "capacity": {}
     },
     "id43": {
         "title": "Low-solvation electrolytes for high-voltage sodium-ion batteries | Nature Energy",
+        "publication_date": "Published: 16 June 2022",
+        "author": "Yan Jin\u00a0\n            ORCID: orcid.org/0000-0003-0811-01001,  et al.",
         "url": "https://www.nature.com/articles/s41560-022-01055-0",
         "publisher": "Nature",
+        "summary of abstract": "Sodium-ion batteries (NIBs) have attracted worldwide attention for next-generation energy storage systems. Severe instability of the solid\u2013electrolyte interphase (SEI) formed during repeated cycling hinders the development of NIBs. Here we report a rational electrolyte design to suppress the SEI dissolution and enhance NIB performance.",
         "capacity": {}
     },
     "id44": {
         "title": "Biologically enhanced cathode design for improved capacity and cycle life for lithium-oxygen batteries | Nature Communications",
+        "publication_date": "Published: 13 November 2013",
+        "author": "Dahyun Oh1,2\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/ncomms3756",
         "publisher": "Nature",
+        "summary of abstract": "Lithium-oxygen batteries have a great potential to enhance the gravimetric energy density of fully packaged batteries by two to three times that of lithium ion cells. Recent studies have focused on finding stable electrolytes to address poor cycling capability. In this study, the catalyst electrode, where discharge products are deposited and decomposed, was investigated.",
         "capacity": {
-            "arg1": "350mAhg-1",
-            "arg2": "340mAhg-1",
-            "arg3": "000mAhg-1",
-            "arg4": "400mAhg-1"
+            "value1": "350mAhg-1",
+            "value2": "340mAhg-1",
+            "value3": "000mAhg-1",
+            "value4": "400mAhg-1"
         }
     },
     "id45": {
         "title": "Advanced intermediate temperature sodium\u2013nickel chloride batteries with ultra-high energy density | Nature Communications",
+        "publication_date": "Published: 11 February 2016",
+        "author": "Guosheng Li1,  et al.",
         "url": "https://www.nature.com/articles/ncomms10683",
         "publisher": "Nature",
+        "summary of abstract": "Sodium-metal halide batteries have been considered as one of the more attractive technologies for stationary electrical energy storage. One of the roadblocks hindering market penetration is the high-operating temperature. Here we demonstrate that planar sodium\u2013nickel chloride batteries can be operated at an intermediate temperature of 190\u00b0C with ultra-high energy density.",
         "capacity": {}
     },
     "id46": {
         "title": "Visualizing nanoscale 3D compositional fluctuation of lithium in advanced lithium-ion battery cathodes | Nature Communications",
+        "publication_date": "Published: 14 August 2015",
+        "author": "A. Devaraj1,  et al.",
         "url": "https://www.nature.com/articles/ncomms9014",
         "publisher": "Nature",
+        "summary of abstract": "The distribution of cations in Li-ion battery cathodes as a function of cycling is a pivotal characteristic of battery performance. Li is notoriously challenging to characterize with typical imaging techniques. Here laser-assisted atom probe tomography (APT) is used to map the three-dimensional distribution of Li at a sub-nanometre spatial resolution.",
         "capacity": {}
     },
     "id47": {
         "title": "A medium-entropy transition metal oxide cathode for high-capacity lithium metal batteries | Nature Communications",
+        "publication_date": "Published: 18 October 2022",
+        "author": "Yi Pei1\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/s41467-022-33927-0",
         "publisher": "Nature",
+        "summary of abstract": "The limited capacity of the positive electrode active material in non-aqueous rechargeable lithium-based batteries acts as a stumbling block for developing high-energy storage devices. We propose a Li1.46Ni0.32Mn1.2O4-x material capable of forming a medium-entropy state spinel phase with partial cation disordering after initial delithiation. When tested in a coin cell configuration in combination with a Li metal anode and a LiPF",
         "capacity": {
-            "arg1": "314.1mAhg-1"
+            "value1": "314.1mAhg-1"
         }
     },
     "id48": {
         "title": "A chemically self-charging aqueous zinc-ion battery | Nature Communications",
+        "publication_date": "Published: 04 May 2020",
+        "author": "Yan Zhang1,  et al.",
         "url": "https://www.nature.com/articles/s41467-020-16039-5",
         "publisher": "Nature",
+        "summary of abstract": "Chemically self-charging aqueous zinc-ion batteries with a simplified two-electrode configuration based on CaV6O16\u00b73H2O electrode. Such system possesses the capability of energy harvesting, conversion and storage simultaneously. It can be chemically self-recharged by the spontaneous redox reaction between the discharged cathode and oxygen.",
         "capacity": {
-            "arg1": "239mAhg-1"
+            "value1": "239mAhg-1"
         }
     },
     "id49": {
         "title": "Cross-linked beta alumina nanowires with compact gel polymer electrolyte coating for ultra-stable sodium metal battery | Nature Communications",
+        "publication_date": "Published: 18 September 2019",
+        "author": "Danni Lei1,2,  et al.",
         "url": "https://www.nature.com/articles/s41467-019-11960-w",
         "publisher": "Nature",
+        "summary of abstract": "Sodium metal batteries have potentially high energy densities, but severe sodium-dendrite growth and side reactions prevent their practical applications. Herein, we design an inorganic ionic conductor/gel polymer electrolyte composite. Side reactions between the sodium metal and liquid electrolyte, as well as sodium dendrite formation, are successfully suppressed, especially at 60\u00b0C.",
         "capacity": {}
     },
     "id50": {
         "title": "Reduced graphene oxide as a stable and high-capacity cathode material for Na-ion batteries | Scientific Reports",
+        "publication_date": "Published: 18 January 2017",
+        "author": "Ghulam Ali1,2\u00a0na1,  et al.",
         "url": "https://www.nature.com/articles/srep40910",
         "publisher": "Nature",
+        "summary of abstract": " reduced graphene oxide (RGO) is a cost-effective and high performance cathode material for sodium-ion batteries. Graphene oxide is synthesized by a modified Hummers\u2019 method and reduced using a solid-state microwave irradiation method. The RGO electrode delivers an exceptionally stable discharge capacity.",
         "capacity": {
-            "arg1": "240mAhg-1",
-            "arg2": "134mAhg-1",
-            "arg3": "230mAhg-1"
+            "value1": "240mAhg-1",
+            "value2": "134mAhg-1",
+            "value3": "230mAhg-1"
         }
     }
 }
