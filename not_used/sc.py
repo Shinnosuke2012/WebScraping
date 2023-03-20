@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-from typing import Any,List, Dict
+from typing import Any,Dict
 
 def Scrape_html(url:str,summarizer:Any)->None:
   """This module scrapes abstraction and extracts the value of capacity.
@@ -67,6 +67,7 @@ def Scrape_html(url:str,summarizer:Any)->None:
   #search the value of capacitance from abstract
   pattern = r'[0-9]+\.*[0-9]*\s*m\s*A\s*h\s*g-1'
   capacity = {}
+  
   for i,m in enumerate(re.findall(pattern, abstract)):
     capacity["value"+str(i+1)] = m.replace(' ','')
 

@@ -1,11 +1,18 @@
-# 論文のスクレイピング
-主要論文を検索して、Abstractから重要な情報を抜き出す.
-今回は、ナトリウムイオン電池のカソードの電極容量についてのデータを抜き出す. 
+# 論文のスクレイピング (主要論文を検索して、Abstractから重要な情報を抜き出す.)
 
-Nature communicationsと呼ばれる雑誌からナトリウムイオン電池のカソードについてのデータを抽出する.
-他の出版社だとスクレイピングが拒否されたので、今回はdemo用に一つの雑誌のみに対応している.
+<img src="img/wos.png" height=70% width=70%>
 
-はじめに[Nature Communicationsの検索一覧](https://www.nature.com/search?q=sodium+ion+battery+cathode+capacity&journal=)からキーワードにヒットした分だけそのページへのリンクを持ってくる. その後、[Scrape.py](Scrape.py)より各リンク先のページからタイトル、出版日、著者、Abstractなどの情報を抜き出す. そして、Abstractを更に50~100文字程度に要点のみをまとめる. 最後にカソードの容量についての情報を正規表現で抜き出す.
+[Web of Science](https://www.webofscience.com/wos/woscc/basic-search)と呼ばれる論文検索サービスがある. (大学アカウントでアクセス可能)\
+この論文データベースで指定したキーワードの情報を一覧にしてくれるパッケージをPythonで作成した. 
+
+はじめに[検索ページ](https://www.webofscience.com/wos/woscc/basic-search)から指定したキーワードにヒットしたページのへのリンクを指定した分だけ抽出する. \
+その後、[scrape.py](wos/scrape.py)より各リンク先のページからタイトル、出版日、著者、Abstractなどの情報を抜き出す.\
+そして、Abstractを更に50~100文字程度に要点のみをまとめる.\
+最後に論文のアブストラクトに含まれる定量データについての情報を正規表現で抜き出す.
+
+## はじめに
+本パッケージを使う前にweb of scienceのAPI Keyが必要となる. APIの取得方法については以下のサイトを参照\
+[Web of Science API Lite](https://libguides.ucalgary.ca/c.php?g=732144&p=5260466)
 
 ## 使い方
 自分の環境にソースコードをクローンする.
@@ -31,7 +38,8 @@ author : 著者
 url : 論文URL
 publisher : 出版社
 summary of abstract : Abstractを50~100で要約したもの
-capacity : 容量のデータ
+value : 数値データ(e.g バッテリー容量のデータ)
+keyword : 論文が属する種類
 ```
 
 実行後、[Output](Output)にアクセスするとスクレイピング後の結果がjsonファイルとして出力される.
